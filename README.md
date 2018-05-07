@@ -21,5 +21,5 @@
 - On mouse click, have the background change to a random color
 
 ## Helpful Resources
-- p5.js reference https://p5js.org/reference/ 
+- [p5.js reference](https://p5js.org/reference/)
 - [p5.js CDN](https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.1/p5.js) found at [cdnjs.com](https://cdnjs.com/libraries/p5.js/)
