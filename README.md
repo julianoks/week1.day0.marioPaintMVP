@@ -5,8 +5,8 @@
 2. Inside of your project folder:  
     - Create a JS file, `sketch.js`
     - Create an HTML file, `index.html`
-    - Make a reference to the JS file
     - Reference the [p5.js CDN](https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.1/p5.js) in your HTML header
+    - Make a reference to the JS file
     - Start your p5.js using the `setup()` function to define your canvas (500x500)
     - Create the `mouseDragged` function (Read the [p5.js documentation](https://p5js.org/reference/) about how this function works). 
     - Inside of the function, create a simple shape that will be drawn at the mouse’s location
